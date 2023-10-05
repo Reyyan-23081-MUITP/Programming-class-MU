@@ -1,6 +1,145 @@
 body{
-    background-color: bisque;
+    background-color: grey;
 }
 #Intro{
-    background-color: aqua;
+    border-width: 10px;
+    border-style: groove;
+    border-color: rgb(100, 72, 72);
+    position: relative;
+    background-color:beige;
+}
+img{
+    border-width: 10px;
+    border-style: groove;
+    border-color: rgb(99, 81, 81);
+    width: 200px;
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#contact-details{
+    position: relative;
+    bottom: 60px;
+
+}
+
+#linkedin{
+    
+}
+
+
+#Name{
+    position: relative;
+    font-family:
+    left: 70px;
+    bottom: 160px;
+}
+#short-descrp{
+    position:relative;
+    bottom: 77px;
+    font-style: italic;
+}
+
+#short-descrp-2{
+    position: relative;
+    bottom: 70px;
+}
+
+#exp{
+    background-color: azure;
+    border-style: groove;
+    border-width: 10px;
+    border-color: rgb(90, 75, 75);
+}
+
+#Exp-start{
+    background-color: bisque;
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgb(67, 124, 150);
+}
+
+#exp-details{
+    background-color: rgb(153, 142, 128);
+    border-style: groove;
+    border-width: 5px;
+    border-color: rgb(105, 71, 71);
+    position: relative;
+}
+
+#exp-brief{
+background-color: aquamarine;
+
+}
+
+#Dexhigh{
+   
+position: relative;
+bottom: 150px;
+}
+
+#Outscal{ 
+    position: relative;
+    bottom: 270px;
+    
+}
+
+#DS{
+position: relative;
+bottom: 100px;
+background-color: aquamarine;
+}
+
+#ATN{
+position:relative;
+bottom: 100px;
+
+}
+
+
+#edu{
+border-style: groove;
+border-color: rgb(92, 71, 71);
+border-width: 10px;
+background-color: rgb(160, 130, 90);
+}
+
+#MU{
+position: relative;
+bottom: 200px;
+
+}
+
+#Prakritik-School{
+position: relative;
+bottom: 100px;
+}
+
+#International-School{
+
+
+}
+
+#dexhigh-pic{
+width: 150px;
+position: relative;
+top: 150px;
+
+}
+
+#outscal-pic{
+    position: relative;
+    top: 170px;
+}
+
+#atn-pic{
+
+    position: relative;
+    bottom: 0px;
+    top: 80px;
+}
+
+#mu-pic{
+position: relative;
+top: 150px;
 }
